@@ -1,0 +1,23 @@
+.main{
+    height: 80vh;
+    background-image: url('https://w.namu.la/s/a418347a39c3cd71a7ae652e85070478ace97cecfd01966c6491871534812061f154405f050f500a7ce8d002c5b18b1a175f054133ffed0a042f8154ccf3b2ad9e9ebdb6caca739b2d543aff5954895b724efaf5db35727a64dcdd968614e329');
+    background-position: center;
+    background-size: 80% 100%;
+}
+
+#footer{
+    height: 100px;
+    font-size: 50px;
+    text-align: right;
+    padding-top: 15px;
+}
+/*
+#port{
+    display : flex;
+    justify-content: space-between;
+}
+*/
+.card-img-top{
+    width : 250px;
+    height : 250px;
+}
